@@ -1,6 +1,7 @@
 # 🏁 Thika Road Rush  
 **A Unity-Based Kenyan Racing & Betting Game**
-https://github.com/okaraworks/Thika-Road-Rush.git
+
+## git link https://github.com/okaraworks/Thika-Road-Rush.git
 https://thikaroadrush.gamer.gd/
 ---
 

@@ -1,0 +1,39 @@
+﻿# === UNITY ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Asset Store tools cache
+Assets/AssetStoreTools*
+
+# VS / Rider
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Addressables
+Assets/AddressableAssetsData/*/*.bin*
+
+# Large files
+*.apk
+*.aab
+*.exe
+*.app
